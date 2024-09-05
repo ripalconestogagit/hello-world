@@ -1,1 +1,3 @@
 # hello-world
+
+In a web design course, I want to learn how to make websites look good and easy to use. I already know how to build websites, but I want to focus on design like choosing colors, fonts and making layouts that are user-friendly.My goal is to combine design and development to craete better websites. Additionally, I hope to explore tools and software that can help me with the design process and help me become more efficient and creative in my work.
